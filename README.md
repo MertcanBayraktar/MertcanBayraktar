@@ -30,19 +30,17 @@
 /**
  * Represents me.
  * @constructor
- * @param {string} city - Paris, France.
- * @param {string} languagues - English, French.
- * @param {string} jobTitle - Full Stack Developer.
- * @param {string} specialization - Building full-fledged web applications.
- * @param {string} interests - AI, writing & problem-solving.
- * @param {string} hobbies - Climbing, reading, triathlons & playing music.
- * @param {string} education - BSc CompSci, Lancaster University.
+ * @param {string} city - Antalya, Turkey.
+ * @param {string} languagues - English,Turkish,Russian.
+ * @param {string} jobTitle - Game Developer.
+ * @param {string} specialization - Building games.
+ * @param {string} interests - AI, problem-solving.
+ * @param {string} hobbies -  playing football,playing games with friends.
+ * @param {string} education - BSc CompSci, Kazan Federal University.
  * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
  * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
- * @param {Date} birthday - 14th of December 2000.
+ * @param {Date} birthday - 5th of September 1997.
  * @throws {Punch} To any and all bugs.
- * @returns {Object} Austinae.
  */
 ```
 
@@ -58,7 +56,7 @@
       <kbd>Programming Languages</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-line.svg" /> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
