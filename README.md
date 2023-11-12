@@ -1,4 +1,3 @@
-<p align="right"> <img src="https://gpvc.arturio.dev/austinae" alt="Profile count" /> </p>
 
 <div align="center">
 
